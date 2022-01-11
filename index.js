@@ -39,8 +39,8 @@ function checkAge2() {
     let question2 = (age >= 18) || 'Did parents allow you?';
     alert (question2);
 }
-// Bài 3 Tìm Min a, b
-function idBai3() {
+// Bài 2 Tìm Min a, b
+function idBai2() {
     let a = prompt("Please input number a:");
     let b = prompt("Please input number b:");
     if (a - b < 0) {
